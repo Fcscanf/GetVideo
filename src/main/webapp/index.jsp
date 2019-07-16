@@ -79,14 +79,14 @@
 							<div class="item">
 						</c:if>
 						 
-						<div style="float: right;padding-right=0px">
+						<div style="float: right; padding-right:85px">
 									<iframe id="${v.url}" style="display: none"
 										class="video_iframe" style="z-index:1;" scrolling="no"
 										frameborder="0" height="500px" width="700px"> </iframe>
 								</div>
 							<div>
 								<div style="float: left">
-									<div  style='width: 450px;height:510px' >
+									<div  style='width: 400px;height:510px' align="center">
 										<h2>
 											<span class="highlight"><font size="2">${v.title}</font></span>
 										</h2>
